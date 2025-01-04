@@ -7,6 +7,8 @@ leaps, extra credit assignments, and synthesis preview
 
 does not include past exams, since the prof includes a whole bank of those which you probably won't finish anyways. 
 
+does not include ws solutions. Those ones aren't even graded, and for the ones that are graded they are participation only. If you are so lazy as to not even scribble something on the paper, you deserve whatever comes for you. 
+
 does not include aleks, since everyone gets a different question and if you can't get the right answer with that many attempts you deserve it anyways and are doomed for the exam.  For those, I recommend that you:
 
 1. read the slides / worksheets / go to office hours
@@ -18,4 +20,4 @@ does not include aleks, since everyone gets a different question and if you can'
 
 finally a word of advice - 
 
-This repo is meant as a "break glass in case of emergency": where you are on your last attempt and need to check that your work is on the right track before you submit. Don't fall into the trap of copy and pasting. The quizzes are given by the prof for a good reason to identify and fix gaps in your knowledge. If you cut and paste, you will (mark my words) surely be doomed for all the exam. **You should make a geniune attempt to solve them by yourself first**, using the info from the slides. That way, you will make the most out of the quizzes. 
+This repo is meant as a "break glass in case of emergency": where you are on your last attempt and need to check that your work is on the right track before you submit. Don't fall into the trap of copy and pasting. The quizzes are given by the prof for a good reason to identify and fix gaps in your knowledge. If you cut and paste, you will (mark my words) surely be doomed for all the exams (lots of pts there). **You should make a geniune attempt to solve them by yourself first**, using the info from the slides. That way, you will make the most out of the quizzes. 
